@@ -1,0 +1,3 @@
+*** Variables ***
+
+${pattaya}    Pattaya
